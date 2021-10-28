@@ -1,4 +1,4 @@
-# Motion on rpi Model 3 B+
+# Motion on Raspberry Pi
 
 ## Source
 
@@ -72,3 +72,7 @@ enable camera service
 
 Select 3 Interface Options
 
+### Note
+
+Develop on rpi Model 3 B+ and use the SD card on pi Zero W works like a charm
+Manually connect to wifi access point
